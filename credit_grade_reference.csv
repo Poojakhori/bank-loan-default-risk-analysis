@@ -1,0 +1,8 @@
+credit_grade,grade_description,base_interest_rate,base_default_prob
+A,Prime - lowest risk,8.0,0.03
+B,Near prime,10.0,0.06
+C,Standard,12.5,0.1
+D,Sub-standard,15.5,0.16
+E,High risk,18.5,0.24
+F,Very high risk,22.0,0.34
+G,Severe risk / near default,26.0,0.45
